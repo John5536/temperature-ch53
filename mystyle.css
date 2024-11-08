@@ -4,10 +4,12 @@
     height: 500px;
     border: 1px solid gray;
     border-radius: 20px;
-
-
 }
 
 .cold{
     background-color: blue;
+}
+
+.hot{
+    background-color: red;
 }
